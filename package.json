@@ -1,5 +1,5 @@
 {
-  "name": "react-native-timeline-listview",
+  "name": "@isitha/react-native-timeline-listview",
   "version": "0.2.3",
   "description": "Timeline component for React Native",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:thegamenicorus/react-native-timeline-listview.git"
+    "url": "git@github.com:isubasinghe/react-native-timeline-listview.git"
   },
   "keywords": [
     "react-native",
@@ -26,8 +26,7 @@
   "author": "Watcharachai Kanjaikaew (https://github.com/thegamenicorus)",
   "license": "MIT",
   "bugs": {
-    "url":
-      "https://github.com/thegamenicorus/react-native-timeline-listview/issues"
+    "url": "https://github.com/thegamenicorus/react-native-timeline-listview/issues"
   },
   "homepage": "https://github.com/thegamenicorus/react-native-timeline-listview"
 }
